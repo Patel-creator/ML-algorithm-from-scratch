@@ -1,1 +1,1 @@
-This page contains some basi Machine Learning Classification and Clustering algorithm from scratch in Python.
+This page contains some basic Machine Learning Classification and Clustering algorithm from scratch in Python.
